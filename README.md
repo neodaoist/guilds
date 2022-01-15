@@ -1,7 +1,7 @@
 # The Guilds of Sibiu
 The Guilds of Sibiu is a mixed reality artwork celebrating the rich history of craft guilds in Transylvania, using a new music web3 primitive — smart scores.
 
-A **smart score** is a provably authentic, scarce, and immutable digital representation of a composer's musical work, built on decentralized web protocols. It is the [autograph score](https://en.wikipedia.org/wiki/Autograph_(manuscript)) for the 3rd millenium, with one important distinction — the composer receives royalties in perpetuity!
+A **smart score** is a provably authentic, scarce, and immutable digital representation of a composer's musical work, built on decentralized web protocols. It is the [autograph score](https://en.wikipedia.org/wiki/Autograph_(manuscript)) for the 3rd millennium, with one important distinction — the composer receives royalties in perpetuity!
 
 For centuries, collectors and scholars alike have treasured autograph scores written in the composer's hand. These manuscripts have both aesthetic value and historical significance. Some famous examples are [Beethoven's 5th Symphony](https://digital.staatsbibliothek-berlin.de/werkansicht/?PPN=PPN664344127&PHYSID=PHYS_0001) and [Mozart's Requiem](https://www.sothebys.com/en/auctions/ecatalogue/2014/music-continental-books-manuscripts-l14402/lot.199.html).
 
