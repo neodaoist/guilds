@@ -1,7 +1,7 @@
 # The Guilds of Sibiu
 The Guilds of Sibiu is a mixed reality artwork celebrating the rich history of craft guilds in Transylvania, using a new music web3 primitive — smart scores.
 
-A **smart score** is a provably authentic, scarce, and immutable digital representation of a composer's musical work, built on decentralized web protocols. It is the [autograph score](https://en.wikipedia.org/wiki/Autograph_(manuscript)) for the 3rd millennium, with one important distinction — the composer receives royalties in perpetuity!
+A **smart score** is a provably authentic, scarce, and immutable digital representation of a composer's musical work, built with decentralized web protocols. It is the [autograph score](https://en.wikipedia.org/wiki/Autograph_(manuscript)) for the 3rd millennium, with one important distinction — the composer receives royalties in perpetuity!
 
 For centuries, collectors and scholars alike have treasured autograph scores written in the composer's hand. These manuscripts have both aesthetic value and historical significance. Some famous examples are [Beethoven's 5th Symphony](https://digital.staatsbibliothek-berlin.de/werkansicht/?PPN=PPN664344127&PHYSID=PHYS_0001) and [Mozart's Requiem](https://www.sothebys.com/en/auctions/ecatalogue/2014/music-continental-books-manuscripts-l14402/lot.199.html).
 
@@ -21,9 +21,9 @@ The Guilds of Sibiu is a test of the smart score idea — think of it as **Cont
 
 #### What are the components?
 - Lazy minting web UI, built with scaffold-eth and hosted with Surge
-- ERC721 contract on Ethereum Rinkeby network
+- 2 ERC721 contracts — one for the 1/1 smart score, one for an edition of 8000 music NFT collection
+- 1 ERC1155 contract to slice secondary sales between creative collaborators, built with Slice.so
 - Downloadable audio content, stored with IPFS and nft.storage
-- "Slicer" smart contract to split secondary sales between creative collaborators, built with Slice.so
 - Metaverse scene, built with Mozilla Hubs and Sketchfab
 - Audio mockups of the music, produced with Steinberg Cubase and Cinematic Studio Series virtual instruments
 - Sheet music PDFs, engraved with Steinberg Dorico
