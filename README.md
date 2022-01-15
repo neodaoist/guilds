@@ -28,4 +28,4 @@ The Guilds of Sibiu is a test of the smart score idea — think of it as **Cont
 - Audio mockups of the music, produced with Steinberg Cubase and Cinematic Studio Series virtual instruments
 - Sheet music PDFs, engraved with Steinberg Dorico
 
-Check out the user stories to learn more about how it's built, or journey to the Guilds metaverse scene to mint your own smart score now!
+Check out the [user stories](./user-stories.md) or [NFT JSON](./guilds.json) to learn more about how it's built, or journey to the Guilds metaverse scene to mint your own smart score now!
