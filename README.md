@@ -10,9 +10,9 @@ But when the autograph score for Mozart's Requiem sells at Sotheby's for half a 
 The Guilds of Sibiu is a test of the smart score idea — think of it as **Contemporary chamber music** meets **Emerging web3 technology** meets (eventually) **Pen-and-ink illustration**.
 
 #### What about the music?
-- A
-- B
-- C
+- The piece is composed for 5 musicians — flute, bassoon, violin, viola, and percussion
+- It was premiered 25 July 2021 by the ICon Arts Ensemble, featuring members of the Sibiu State Philharmonic Orchestra
+- The V2 of the piece expands the number of guilds from 6 to 8, adding Blacksmiths and Cobblers
 
 #### What does success look like?
 -	A compelling fan experience
@@ -20,10 +20,10 @@ The Guilds of Sibiu is a test of the smart score idea — think of it as **Cont
 -	5% of all royalties going to charity
 
 #### What are the components?
-- ERC721 contracts on Ethereum Rinkeby network
-- Downloadable content, stored with nft.storage
+- Lazy minting web UI, built with scaffold-eth and hosted with Surge
+- ERC721 contract on Ethereum Rinkeby network
+- Downloadable audio content, stored with IPFS and nft.storage
 - "Slicer" smart contract to split secondary sales between creative collaborators, built with Slice.so
-- Lazy minting web UI, built with ThirdWeb and hosted with XYZ
 - Metaverse scene, built with Mozilla Hubs and Sketchfab
 - Audio mockups of the music, produced with Steinberg Cubase and Cinematic Studio Series virtual instruments
 - Sheet music PDFs, engraved with Steinberg Dorico
