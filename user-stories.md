@@ -5,7 +5,7 @@
 - Fan Minting
 - Fan Sharing
 
-## Onboarding
+## Fan Onboarding
 #### Fan views metaverse scene waiting room
 
 #### Fan enters metaverse scene
@@ -16,15 +16,17 @@
 
 #### Fan listens to classical music for each guild
 
-## Creating
-#### Composer creates smart score as music NFT
+## Artist Creating
+#### Composer creates 1 of 1 smart score music NFT
+
+#### Composer creates edition of 1000 guild music NFT
 
 #### Composer splits music NFT royalties with performers, engraver, and charity
 
-## Minting
-#### Fan chooses a guild to mint
+## Fan Minting
+#### Fan bids on 1 of 1 smart score music NFT
 
-#### Fan mints smart score for guild
+#### Fan mints edition of 1000 guild music NFT
 
-## Sharing
-#### Fan shares guild smart score on social media
+## Fan Sharing
+#### TODO :: Fan shares guild metaverse on social media
