@@ -38,7 +38,7 @@ _All components except for the music were built by @NeoDaoist between 14 Jan 202
 - A learning experience building with open source blockchain and metaverse tools
 
 ## 🧪 To learn more about how it's built, check out:
-- [Demo video](https://youtube.com)
+- [Demo video](https://www.youtube.com/watch?v=GjHKlm0CSsc)
 - [User stories](./extras/user-stories.md)
 - [NFT json](./extras/guilds.json)
 - Direct link to [scaffold-eth contract](https://github.com/NeoDaoist/guilds/blob/main/packages/hardhat/contracts/TheGuildsOfSibiu.sol)
