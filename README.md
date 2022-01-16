@@ -45,7 +45,10 @@ _All components except for the music were created and coded between 14 Jan 2022 
 - Contracts 
     - [Smart score ERC-721 contract](https://rinkeby.etherscan.io/address/0x05988eb3fc03abb0da03331f2de1bb2b4fc98200#code)
     - [Edition of 8000 ERC-721 contract](https://rinkeby.etherscan.io/address/0x87Ef01bCC256245dB467d4820bff8927D53aCBe9#code)
-    - [Slicer ERC-1155 contract](https://rinkeby.etherscan.io/address/0x088a002ca3c9323280a1e853e1696e483f5c6350) – not verified ([inspect slices](./guilds-smart-score-slicer.png))
+    - Slicer ERC-1155 contract
+        - [Slicer](https://testnet.slice.so/slicer/17)
+        - [Breakdown of slices](./guilds-smart-score-slicer.png)
+        - [Etherscan](https://rinkeby.etherscan.io/address/0x088a002ca3c9323280a1e853e1696e483f5c6350) (not verified yet)
 
 ## Journey with us to the [Guilds metaverse](https://hubs.mozilla.com/jo8FKzd/guilds) and mint your Guilds music NFT!
 
