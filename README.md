@@ -25,9 +25,9 @@ _All components except for the music were built by @NeoDaoist between 14 Jan 202
     - Sheet music PDF, engraved with [Steinberg Dorico](https://www.steinberg.net/dorico/)
 
 ## 🎻 What about the music?
-- The piece was composed in 2021 for 5 musicians — flute, bassoon, violin, viola, and percussion
+- The piece was composed in 2021 for the ICon Arts Festival in Romania for flute, bassoon, violin, viola, and percussion
 - Each of the 8 movements was inspired by a medieval craft guild of Sibiu, Transylvania, Romania (e.g., goldsmiths, embroiderers, candlemakers)
-- It was premiered 25 July 2021 at the ICon Arts Festival in Romania by the ICon Arts Ensemble, featuring members of the Sibiu State Philharmonic Orchestra
+- It was premiered 25 July 2021 by the ICon Arts Ensemble, featuring members of the Sibiu State Philharmonic Orchestra
 - V2 of the piece expands the number of guilds from 6 to 8, adding Blacksmiths and Cobblers
 - The smart score was minted as a 1 of 1 Music NFT — [OpenSea](https://testnets.opensea.io/assets/0x05988eb3fc03abb0da03331f2de1bb2b4fc98200/11) and [nft.storage](https://bafybeihr5t4nz4jen6m6liwvqxqduezhczgyeh2cmwgvhq6rmiaebcsiey.ipfs.dweb.link/)
 - Secondary royalties are paid to an ERC1155 contract which distributes ETH in proportion to slices owned – [Slicer](https://testnet.slice.so/slicer/17)
