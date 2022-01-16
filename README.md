@@ -14,11 +14,12 @@ _All components except for the music were created and coded between 14 Jan 2022 
 #### What technology is used?
 - Minting web app, built with [scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) and hosted with [Surge](https://surge.sh/)
 - Downloadable audio content, stored with [IPFS](https://ipfs.io/) and [nft.storage](https://nft.storage/)
-- 2 ERC721 contracts — one for an edition of 8000 music NFT collection (with customized scaffold-eth contract), one for the 1/1 smart score (with [Manifold.xyz](https://www.manifold.xyz/) contract)
+- 2 ERC721 contracts — one for the 1/1 smart score (with [Manifold.xyz](https://www.manifold.xyz/)), one for an edition of 8000 music NFT collection (with scaffold-eth)
 - 1 ERC1155 contract to slice secondary NFT sales between creative collaborators, built with [Slice.so](https://slice.so/)
 - Metaverse scene, built with [Mozilla Hubs](https://hubs.mozilla.com/), [Sketchfab](https://sketchfab.com/), and [Blender](https://www.blender.org/)
-- Audio mockups of the music, produced with [Steinberg Cubase](https://www.steinberg.net/cubase/) and [Cinematic Studio Series](https://cinematicstudioseries.com/) virtual instruments
-- Sheet music PDFs, engraved with [Steinberg Dorico](https://www.steinberg.net/dorico/)
+- Music
+-- Audio mockup of the music, produced with [Steinberg Cubase](https://www.steinberg.net/cubase/) and [Cinematic Studio Series](https://cinematicstudioseries.com/) virtual instruments
+-- Sheet music PDFs, engraved with [Steinberg Dorico](https://www.steinberg.net/dorico/)
 
 #### What about the music?
 - The piece was composed for 5 musicians — flute, bassoon, violin, viola, and percussion
