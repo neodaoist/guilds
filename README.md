@@ -22,7 +22,7 @@ _All components except for the music were created and coded between 14 Jan 2022 
 - Metaverse scene, built with [Mozilla Hubs](https://hubs.mozilla.com/), [Sketchfab](https://sketchfab.com/), and [Blender](https://www.blender.org/)
 - Music
     - Audio mockup of the music, produced with [Steinberg Cubase](https://www.steinberg.net/cubase/) and [Cinematic Studio Series](https://cinematicstudioseries.com/) virtual instruments
-    - Sheet music PDFs, engraved with [Steinberg Dorico](https://www.steinberg.net/dorico/)
+    - Sheet music PDF, engraved with [Steinberg Dorico](https://www.steinberg.net/dorico/)
 
 ## 🎻 What about the music?
 - The piece was composed in 2021 for 5 musicians — flute, bassoon, violin, viola, and percussion
