@@ -9,14 +9,7 @@ But when the autograph score for Mozart's Requiem sells at Sotheby's for half a 
 
 The Guilds of Sibiu is a test of the smart score idea — think of it as **Contemporary chamber music** meets **Emerging web3 technology** meets (eventually) **Pen-and-ink illustration**.
 
-_All components except for the music was created or coded between 14 Jan 2022 and 16 Jan 2022_
-
-#### What about the music?
-- The piece was composed for 5 musicians — flute, bassoon, violin, viola, and percussion
-- Each of the 8 movements was inspired by a medieval craft guild of Sibiu, Transylvania, Romania (e.g., goldsmiths, embroiderers, candlemakers)
-- It was premiered 25 July 2021 by the ICon Arts Ensemble, featuring members of the Sibiu State Philharmonic Orchestra
-- The V2 of the piece expands the number of guilds from 6 to 8, adding Blacksmiths and Cobblers
-- The smart score was minted as a 1 of 1 Music NFT — [OpenSea](https://testnets.opensea.io/assets/0x05988eb3fc03abb0da03331f2de1bb2b4fc98200/11)
+_All components except for the music were created and coded between 14 Jan 2022 and 16 Jan 2022_
 
 #### What technology is used?
 - Minting web app, built with [scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) and hosted with [Surge](https://surge.sh/)
@@ -27,6 +20,14 @@ _All components except for the music was created or coded between 14 Jan 2022 an
 - Audio mockups of the music, produced with [Steinberg Cubase](https://www.steinberg.net/cubase/) and [Cinematic Studio Series](https://cinematicstudioseries.com/) virtual instruments
 - Sheet music PDFs, engraved with [Steinberg Dorico](https://www.steinberg.net/dorico/)
 
+#### What about the music?
+- The piece was composed for 5 musicians — flute, bassoon, violin, viola, and percussion
+- Each of the 8 movements was inspired by a medieval craft guild of Sibiu, Transylvania, Romania (e.g., goldsmiths, embroiderers, candlemakers)
+- It was premiered 25 July 2021 by the ICon Arts Ensemble, featuring members of the Sibiu State Philharmonic Orchestra
+- The V2 of the piece expands the number of guilds from 6 to 8, adding Blacksmiths and Cobblers
+- The smart score was minted as a 1 of 1 Music NFT — [OpenSea](https://testnets.opensea.io/assets/0x05988eb3fc03abb0da03331f2de1bb2b4fc98200/11)
+- Secondary royalties are paid to an ERC1155 contract which distributes – [Slicer](https://testnet.slice.so/slicer/17)
+
 #### What does success look like?
 -	A compelling fan experience
 -	A new way for composers, performers, engravers, and other collaborators to get paid
@@ -35,7 +36,7 @@ _All components except for the music was created or coded between 14 Jan 2022 an
 To learn more about how it's built, check out:
 - [User stories](./user-stories.md)
 - [NFT json](./guilds.json)
-- [Slicer ERC-1155 contract](https://testnet.slice.so/slicer/17)
+- [Slicer ERC-1155 contract](./guilds-smart-score-slicer.png)
 
-## Journey with us to the Guilds metaverse to mint your own Guilds Music NFT!
+## Journey with us to the [Guilds metaverse](#) now to mint your own Guilds Music NFT!
 
