@@ -39,9 +39,9 @@ _All components except for the music were created and coded between 14 Jan 2022 
 
 ## 🧪 To learn more about how it's built, check out:
 - [Demo video](https://youtube.com)
-- [Technologies used](./technology.md)
 - [User stories](./user-stories.md)
 - [NFT json](./guilds.json)
+- Direct link to [scaffold-eth app](https://guilds-test.surge.sh/)
 - Contracts 
     - [Smart score ERC-721 contract](https://rinkeby.etherscan.io/address/0x05988eb3fc03abb0da03331f2de1bb2b4fc98200#code)
     - [Edition of 8000 ERC-721 contract](https://rinkeby.etherscan.io/address/0x87Ef01bCC256245dB467d4820bff8927D53aCBe9#code)
