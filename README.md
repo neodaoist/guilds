@@ -30,7 +30,7 @@ _All components except for the music were created and coded between 14 Jan 2022 
 - It was premiered 25 July 2021 at the ICon Arts Festival in Romania by the ICon Arts Ensemble, featuring members of the Sibiu State Philharmonic Orchestra
 - V2 of the piece expands the number of guilds from 6 to 8, adding Blacksmiths and Cobblers
 - The smart score was minted as a 1 of 1 Music NFT — [OpenSea](https://testnets.opensea.io/assets/0x05988eb3fc03abb0da03331f2de1bb2b4fc98200/11) and [nft.storage](https://bafybeihr5t4nz4jen6m6liwvqxqduezhczgyeh2cmwgvhq6rmiaebcsiey.ipfs.dweb.link/)
-- Secondary royalties are paid to an ERC1155 contract which distributes ETH in  – [Slicer](https://testnet.slice.so/slicer/17)
+- Secondary royalties are paid to an ERC1155 contract which distributes ETH in proportion to slices owned – [Slicer](https://testnet.slice.so/slicer/17)
 
 ## 😎 What does success look like?
 - A fun, compelling experience for listeners
@@ -42,10 +42,10 @@ _All components except for the music were created and coded between 14 Jan 2022 
 - [Technologies used](./technology.md)
 - [User stories](./user-stories.md)
 - [NFT json](./guilds.json)
-- Contracts
-    - [Smart score ERC-721 contract]()
-    - [Edition of 8000 ERC-721 contract]()
-    - [Slicer ERC-1155 contract](./guilds-smart-score-slicer.png)
+- Contracts 
+    - [Smart score ERC-721 contract](https://rinkeby.etherscan.io/address/0x05988eb3fc03abb0da03331f2de1bb2b4fc98200#code)
+    - [Edition of 8000 ERC-721 contract](https://rinkeby.etherscan.io/address/0x87Ef01bCC256245dB467d4820bff8927D53aCBe9#code)
+    - [Slicer ERC-1155 contract](https://rinkeby.etherscan.io/address/0x088a002ca3c9323280a1e853e1696e483f5c6350) – not verified ([inspect slices](./guilds-smart-score-slicer.png))
 
 ## Journey with us to the [Guilds metaverse](https://hubs.mozilla.com/jo8FKzd/guilds) and mint your own Guilds Music NFT!
 
