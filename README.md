@@ -3,15 +3,15 @@ The Guilds of Sibiu is a mixed reality artwork celebrating the rich history of c
 
 ### A smart score is a provably authentic, scarce, and immutable digital representation of a musical composition, built with decentralized web protocols. It is the [autograph score](https://en.wikipedia.org/wiki/Autograph_(manuscript)) of the 3rd millennium, with an important distinction — the composer and collaborators can receive royalties in perpetuity! 🎼 ♾ 💰
 
-For centuries, collectors and scholars alike have treasured autograph scores written in the composer's hand. These manuscripts have both aesthetic value and historical significance. Some famous examples are [Beethoven's 5th Symphony](https://digital.staatsbibliothek-berlin.de/werkansicht/?PPN=PPN664344127&PHYSID=PHYS_0001) and [Mozart's Requiem](https://www.sothebys.com/en/auctions/ecatalogue/2014/music-continental-books-manuscripts-l14402/lot.199.html).
+✍️ For centuries, collectors and scholars alike have treasured autograph scores written in the composer's hand. 🔎 These manuscripts have both aesthetic value and historical significance. 🎻 Some famous examples are [Beethoven's 5th Symphony](https://digital.staatsbibliothek-berlin.de/werkansicht/?PPN=PPN664344127&PHYSID=PHYS_0001) and [Mozart's Requiem](https://www.sothebys.com/en/auctions/ecatalogue/2014/music-continental-books-manuscripts-l14402/lot.199.html).
 
 But when the autograph score for Mozart's Requiem sells at Sotheby's for half a million pounds, his estate receives nothing. How much more impactful could these perpetual royalties be for living composers still working in the field?
 
-The Guilds of Sibiu is a test of the smart score idea — think of it as **Contemporary chamber music** meets **Emerging web3 technology** meets (eventually) **Pen-and-ink illustration**.
+💡 The Guilds of Sibiu is a test of the smart score idea — think of it as **Contemporary chamber music** meets **Emerging web3 technology** meets (eventually) **Pen-and-ink illustration**.
 
 _All components except for the music were created and coded between 14 Jan 2022 and 16 Jan 2022_
 
-Read on to learn more, or jump straight to the [Guilds metaverse](https://hubs.mozilla.com/jo8FKzd/guilds) to mint your Guilds Music NFT!
+🌠 Read on to learn more, or jump straight to the [Guilds metaverse](https://hubs.mozilla.com/jo8FKzd/guilds) to mint your Guilds Music NFT!
 
 ## 🛠 What technologies are used?
 - Minting web app, built with [scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) and hosted with [Surge](https://surge.sh/)
