@@ -11,7 +11,7 @@ But when the autograph score for the Requiem sells at Sotheby's for half a milli
 
 The Guilds of Sibiu is a test of the 💡 smart score idea — think of it as **Contemporary chamber music** meets **Emerging web3 technology** meets (soon) **Pen-and-ink illustrations**.
 
-🌠 Read on to learn more, or jump straight into the [Guilds metaverse](https://hubs.mozilla.com/jo8FKzd/guilds) to mint your Guilds Music NFT!
+🌠 Read on to learn more, or jump straight into the [Guilds metaverse](https://hubs.mozilla.com/jo8FKzd/guilds) to mint your own Guilds Music NFT!
 
 ## 🛠 What technologies are used?
 _All components except for the music were created and coded between 14 Jan 2022 and 16 Jan 2022_
@@ -47,5 +47,5 @@ _All components except for the music were created and coded between 14 Jan 2022 
     - [Edition of 8000 ERC-721 contract](https://rinkeby.etherscan.io/address/0x87Ef01bCC256245dB467d4820bff8927D53aCBe9#code)
     - [Slicer ERC-1155 contract](https://rinkeby.etherscan.io/address/0x088a002ca3c9323280a1e853e1696e483f5c6350) – not verified ([inspect slices](./guilds-smart-score-slicer.png))
 
-## Journey with us to the [Guilds metaverse](https://hubs.mozilla.com/jo8FKzd/guilds) and mint your own Guilds Music NFT!
+## Journey with us to the [Guilds metaverse](https://hubs.mozilla.com/jo8FKzd/guilds) and mint your Guilds Music NFT!
 
