@@ -25,7 +25,7 @@ _All components except for the music were created and coded between 14 Jan 2022 
 - Each of the 8 movements was inspired by a medieval craft guild of Sibiu, Transylvania, Romania (e.g., goldsmiths, embroiderers, candlemakers)
 - It was premiered 25 July 2021 by the ICon Arts Ensemble, featuring members of the Sibiu State Philharmonic Orchestra
 - The V2 of the piece expands the number of guilds from 6 to 8, adding Blacksmiths and Cobblers
-- The smart score was minted as a 1 of 1 Music NFT — [OpenSea](https://testnets.opensea.io/assets/0x05988eb3fc03abb0da03331f2de1bb2b4fc98200/11)
+- The smart score was minted as a 1 of 1 Music NFT — [OpenSea](https://testnets.opensea.io/assets/0x05988eb3fc03abb0da03331f2de1bb2b4fc98200/11) and [nft.storage](https://bafybeihr5t4nz4jen6m6liwvqxqduezhczgyeh2cmwgvhq6rmiaebcsiey.ipfs.dweb.link/)
 - Secondary royalties are paid to an ERC1155 contract which distributes – [Slicer](https://testnet.slice.so/slicer/17)
 
 #### What does success look like?
@@ -38,5 +38,5 @@ To learn more about how it's built, check out:
 - [NFT json](./guilds.json)
 - [Slicer ERC-1155 contract](./guilds-smart-score-slicer.png)
 
-## Journey with us to the [Guilds metaverse](#) now to mint your own Guilds Music NFT!
+## Journey with us to the [Guilds metaverse](#) to mint your own Guilds Music NFT!
 
