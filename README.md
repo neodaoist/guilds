@@ -18,8 +18,8 @@ _All components except for the music were created and coded between 14 Jan 2022 
 - 1 ERC1155 contract to slice secondary NFT sales between creative collaborators, built with [Slice.so](https://slice.so/)
 - Metaverse scene, built with [Mozilla Hubs](https://hubs.mozilla.com/), [Sketchfab](https://sketchfab.com/), and [Blender](https://www.blender.org/)
 - Music
--- Audio mockup of the music, produced with [Steinberg Cubase](https://www.steinberg.net/cubase/) and [Cinematic Studio Series](https://cinematicstudioseries.com/) virtual instruments
--- Sheet music PDFs, engraved with [Steinberg Dorico](https://www.steinberg.net/dorico/)
+    - Audio mockup of the music, produced with [Steinberg Cubase](https://www.steinberg.net/cubase/) and [Cinematic Studio Series](https://cinematicstudioseries.com/) virtual instruments
+    - Sheet music PDFs, engraved with [Steinberg Dorico](https://www.steinberg.net/dorico/)
 
 #### What about the music?
 - The piece was composed for 5 musicians — flute, bassoon, violin, viola, and percussion
@@ -39,5 +39,5 @@ To learn more about how it's built, check out:
 - [NFT json](./guilds.json)
 - [Slicer ERC-1155 contract](./guilds-smart-score-slicer.png)
 
-## Journey with us to the [Guilds metaverse](#) to mint your own Guilds Music NFT!
+## Journey with us to the [Guilds metaverse](https://hubs.mozilla.com/jo8FKzd/guilds) to mint your own Guilds Music NFT!
 
