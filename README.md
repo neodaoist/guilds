@@ -14,7 +14,7 @@ The Guilds of Sibiu is a test of the 💡 smart score idea — think of it as **
 🌠 Read on to learn more, or jump straight into the [Guilds metaverse](https://hubs.mozilla.com/jo8FKzd/guilds) to mint your own Guilds music NFT!
 
 ## 🛠 What technologies are used?
-_All components except for the music were created and coded between 14 Jan 2022 and 16 Jan 2022_
+_All components except for the music were built by @NeoDaoist between 14 Jan 2022 and 16 Jan 2022_
 - Minting web app, built with [scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) and hosted with [Surge](https://surge.sh/)
 - Downloadable PDF and audio content, stored with [IPFS](https://ipfs.io/) and [nft.storage](https://nft.storage/)
 - 2 ERC721 contracts — a 1/1 smart score (with [Manifold.xyz](https://www.manifold.xyz/)) and an edition of 8000 music NFT collection (with scaffold-eth)
