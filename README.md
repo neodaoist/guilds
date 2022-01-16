@@ -9,23 +9,33 @@ But when the autograph score for Mozart's Requiem sells at Sotheby's for half a 
 
 The Guilds of Sibiu is a test of the smart score idea — think of it as **Contemporary chamber music** meets **Emerging web3 technology** meets (eventually) **Pen-and-ink illustration**.
 
+_All components except for the music was created or coded between 14 Jan 2022 and 16 Jan 2022_
+
 #### What about the music?
-- The piece is composed for 5 musicians — flute, bassoon, violin, viola, and percussion
+- The piece was composed for 5 musicians — flute, bassoon, violin, viola, and percussion
+- Each of the 8 movements was inspired by a medieval craft guild of Sibiu, Transylvania, Romania (e.g., goldsmiths, embroiderers, candlemakers)
 - It was premiered 25 July 2021 by the ICon Arts Ensemble, featuring members of the Sibiu State Philharmonic Orchestra
 - The V2 of the piece expands the number of guilds from 6 to 8, adding Blacksmiths and Cobblers
+- The smart score was minted as a 1 of 1 Music NFT — (OpenSea)[https://testnets.opensea.io/assets/0x05988eb3fc03abb0da03331f2de1bb2b4fc98200/11]
+
+#### What technology is used?
+- Minting web app, built with (scaffold-eth)[https://github.com/scaffold-eth/scaffold-eth] and hosted with (Surge)[https://surge.sh/]
+- Downloadable audio content, stored with (IPFS)[https://ipfs.io/] and (nft.storage)[https://nft.storage/]
+- 2 ERC721 contracts — one for an edition of 8000 music NFT collection (with customized scaffold-eth contract), one for the 1/1 smart score (with (Manifold.xyz)[https://www.manifold.xyz/] contract)
+- 1 ERC1155 contract to slice secondary NFT sales between creative collaborators, built with (Slice.so)[https://testnet.slice.so/slicer/17]
+- Metaverse scene, built with (Mozilla Hubs)[https://hubs.mozilla.com/], (Sketchfab)[https://sketchfab.com/], and (Blender)[https://www.blender.org/]
+- Audio mockups of the music, produced with (Steinberg Cubase)[https://www.steinberg.net/cubase/] and (inematic Studio Series)[https://cinematicstudioseries.com/] virtual instruments
+- Sheet music PDFs, engraved with (Steinberg Dorico)[https://www.steinberg.net/dorico/]
 
 #### What does success look like?
 -	A compelling fan experience
 -	A new way for composers, performers, engravers, and other collaborators to get paid
 -	5% of all royalties going to charity
 
-#### What are the components?
-- Lazy minting web UI, built with scaffold-eth and hosted with Surge
-- 2 ERC721 contracts — one for the 1/1 smart score, one for an edition of 8000 music NFT collection
-- 1 ERC1155 contract to slice secondary sales between creative collaborators, built with Slice.so
-- Downloadable audio content, stored with IPFS and nft.storage
-- Metaverse scene, built with Mozilla Hubs and Sketchfab
-- Audio mockups of the music, produced with Steinberg Cubase and Cinematic Studio Series virtual instruments
-- Sheet music PDFs, engraved with Steinberg Dorico
+To learn more about how it's built, check out:
+- [User stories](./user-stories.md)
+- [NFT json](./guilds.json)
+- [Slicer ERC-1155 contract](https://testnet.slice.so/slicer/17)
 
-Check out the [user stories](./user-stories.md) or [NFT JSON](./guilds.json) to learn more about how it's built, or journey to the Guilds metaverse scene to mint your own smart score now!
+## Journey with us to the Guilds metaverse to mint your own Guilds Music NFT!
+
