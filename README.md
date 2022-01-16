@@ -16,16 +16,16 @@ _All components except for the music was created or coded between 14 Jan 2022 an
 - Each of the 8 movements was inspired by a medieval craft guild of Sibiu, Transylvania, Romania (e.g., goldsmiths, embroiderers, candlemakers)
 - It was premiered 25 July 2021 by the ICon Arts Ensemble, featuring members of the Sibiu State Philharmonic Orchestra
 - The V2 of the piece expands the number of guilds from 6 to 8, adding Blacksmiths and Cobblers
-- The smart score was minted as a 1 of 1 Music NFT — (OpenSea)[https://testnets.opensea.io/assets/0x05988eb3fc03abb0da03331f2de1bb2b4fc98200/11]
+- The smart score was minted as a 1 of 1 Music NFT — [OpenSea](https://testnets.opensea.io/assets/0x05988eb3fc03abb0da03331f2de1bb2b4fc98200/11)
 
 #### What technology is used?
-- Minting web app, built with (scaffold-eth)[https://github.com/scaffold-eth/scaffold-eth] and hosted with (Surge)[https://surge.sh/]
-- Downloadable audio content, stored with (IPFS)[https://ipfs.io/] and (nft.storage)[https://nft.storage/]
-- 2 ERC721 contracts — one for an edition of 8000 music NFT collection (with customized scaffold-eth contract), one for the 1/1 smart score (with (Manifold.xyz)[https://www.manifold.xyz/] contract)
-- 1 ERC1155 contract to slice secondary NFT sales between creative collaborators, built with (Slice.so)[https://testnet.slice.so/slicer/17]
-- Metaverse scene, built with (Mozilla Hubs)[https://hubs.mozilla.com/], (Sketchfab)[https://sketchfab.com/], and (Blender)[https://www.blender.org/]
-- Audio mockups of the music, produced with (Steinberg Cubase)[https://www.steinberg.net/cubase/] and (inematic Studio Series)[https://cinematicstudioseries.com/] virtual instruments
-- Sheet music PDFs, engraved with (Steinberg Dorico)[https://www.steinberg.net/dorico/]
+- Minting web app, built with [scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) and hosted with [Surge](https://surge.sh/)
+- Downloadable audio content, stored with [IPFS](https://ipfs.io/) and [nft.storage](https://nft.storage/)
+- 2 ERC721 contracts — one for an edition of 8000 music NFT collection (with customized scaffold-eth contract), one for the 1/1 smart score (with [Manifold.xyz](https://www.manifold.xyz/) contract)
+- 1 ERC1155 contract to slice secondary NFT sales between creative collaborators, built with [Slice.so](https://slice.so/)
+- Metaverse scene, built with [Mozilla Hubs](https://hubs.mozilla.com/), [Sketchfab](https://sketchfab.com/), and [Blender](https://www.blender.org/)
+- Audio mockups of the music, produced with [Steinberg Cubase](https://www.steinberg.net/cubase/) and [Cinematic Studio Series](https://cinematicstudioseries.com/) virtual instruments
+- Sheet music PDFs, engraved with [Steinberg Dorico](https://www.steinberg.net/dorico/)
 
 #### What does success look like?
 -	A compelling fan experience
