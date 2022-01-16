@@ -41,7 +41,8 @@ _All components except for the music were created and coded between 14 Jan 2022 
 - [Demo video](https://youtube.com)
 - [User stories](./extras/user-stories.md)
 - [NFT json](./extras/guilds.json)
-- Direct link to [scaffold-eth app](https://guilds-test.surge.sh/)
+- Direct link to [scaffold-eth contract source code](https://github.com/NeoDaoist/guilds/blob/main/packages/hardhat/contracts/TheGuildsOfSibiu.sol)
+- Direct link to [scaffold-eth web app](https://guilds-test.surge.sh/)
 - Contracts 
     - [Smart score ERC-721 contract](https://rinkeby.etherscan.io/address/0x05988eb3fc03abb0da03331f2de1bb2b4fc98200#code)
     - [Edition of 8000 ERC-721 contract](https://rinkeby.etherscan.io/address/0x87Ef01bCC256245dB467d4820bff8927D53aCBe9#code)
